@@ -60,6 +60,14 @@
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_2_2.png)
 
+## Скриншоты выгрузки трекинга работы модели в ClearML:
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/ClearML_1.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/ClearML_2.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/ClearML_3.png)
+
 ## Скриншоты выгрузки трекинга работы модели в Телегам-чат:
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/T_1.png)
