@@ -14,7 +14,7 @@
 
 ## Примерная блок-схема проекта:
 
-![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/diag.png)
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/diag.png)
 
 ## Описание работы проекта:
 
