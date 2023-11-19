@@ -43,3 +43,21 @@
 1. "Вытягивает" последние версии сохранненных файлов из DVC (dvc pull).
 2. Отправляет в вышеуказанный чат два графика, на которых отражены реальное количество сообщений в чате за предыдущие сутки (с почасовой разбивкой) и предсказание модели на будущие сутки. Таким образом при просмотре диаграмм в чате можно сравнить разницу между предсказанными и реальными значениями визуально.
 3. Отправляет ссылку на страницу проекта MLOPS_task_4 на платформе ClearML, где авторизованные участники могут ознакомиться с другими параметрами эксперимента.
+
+## Скриншоты работы конвейера Airflow:
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dags.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_1_1.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_1_2.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_2_1.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_2_2.png)
+
+## Скриншоты выгрузки трекинга работы модели в Телегам-чат [Трекинг модели](https://t.me/timeline_prediction)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/T_1.png)
+
+![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/T_2.png)
