@@ -48,15 +48,19 @@
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dags.png)
 
+### DAG №1:
+
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_1_1.png)
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_1_2.png)
+
+### DAG №2:
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_2_1.png)
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/airflow_dag_2_2.png)
 
-## Скриншоты выгрузки трекинга работы модели в Телегам-чат [Трекинг модели](https://t.me/timeline_prediction)
+## Скриншоты выгрузки трекинга работы модели в Телегам-чат:
 
 ![Image alt](https://github.com/YaRoLit/MLOPS_2_task_4/raw/main/.readme_img/T_1.png)
 
