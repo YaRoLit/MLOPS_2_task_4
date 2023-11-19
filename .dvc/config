@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = cloud
+['remote "cloud"']
+    url = gdrive://1B2XUX37QFONvLharBwGlfATZTH6TgQmQ/Data
